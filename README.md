@@ -1,0 +1,2 @@
+# PPSSPP
+Only PSP Windows
